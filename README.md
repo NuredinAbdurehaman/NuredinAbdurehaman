@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eng.@Nuredin Abdurehaman
+- 👋 Hi, I’m @Nuredin Abdurehaman
 - 👀 I’m interested in  in web development, open-source contributions, and creating innovative applications.
 - 🌱 I’m currently learning advanced JavaScript frameworks and cloud technologies.
 - 💞️ I’m looking to collaborate on projects related to web apps, APIs, and any exciting open-source initiatives.
